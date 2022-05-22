@@ -1,0 +1,19 @@
+ul {
+    height: 20vh;
+    max-height: 20vh;
+}
+
+.no-records {
+    height: 20vh;
+    width: 110% !important;
+    margin-left: -10% !important;
+}
+
+.div-list {
+    padding-left: 10%;
+    padding-right: 2%;
+}
+
+.delete-btn {
+    margin-left: -2%;
+}

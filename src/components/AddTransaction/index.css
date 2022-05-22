@@ -1,0 +1,21 @@
+.negative {
+    color: #c0392b;
+}
+
+.positive {
+    color: #2ecc71;
+}
+
+.left {
+    display: flex;
+    float: left;
+}
+
+.right {
+    display: flex;
+    float: right;
+}
+
+.lbl-amount {
+    width: 100%;
+}
