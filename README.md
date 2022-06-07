@@ -5,4 +5,4 @@
 3) npm start
 
 
-![port](public\read-me.png)
+![port](https://github.com/pushpendrakukreti/Expense-Tracker/blob/main/public/read-me.png)
